@@ -1,0 +1,60 @@
+body {
+	background-image: url("tinyhorsebackground.jpg");
+	background-repeat: no-repeat;
+  	background-position: top;
+  	color: white !important;
+    font-family: 'Cardo', serif !important;
+}
+.triple {
+	background-color: white;
+	align-items: center;
+}
+.stable {
+	color: black;
+
+
+}
+.choosestable {
+	align-items: center;
+}
+a {
+	color: coral !important;
+}
+.sublink {
+	color: white !important
+}
+.legal	{
+	color: blue;
+}
+.nav:hover {
+	text-decoration: underline;
+}
+h2 {
+	 font-size: 500% !important;
+}
+.smallheader {
+	font-size: smaller;
+}
+.lrgwords {
+	font-size: x-large;
+}
+.card-title {
+	font-size: x-large;
+}
+.legal {
+	font-size: xx-small;
+	color: cornflowerblue;
+}
+button {
+	display: inline-block;
+	background-color: black;
+	color: white;
+	border: none;
+	padding: 15px 32px;
+	float: right;
+}
+
+button:hover {
+	text-decoration: underline;
+}
+
